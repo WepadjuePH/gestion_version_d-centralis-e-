@@ -9,3 +9,7 @@ projet"
 echo "Ce projet est un exercice d'initiation à Git." >> README.md 
 git add README.md 
 git commit -m "docs: ajout de la description du projet dans README.md" 
+# Modifier à nouveau le README.md (ajout d'informations d'auteur) 
+echo "Auteur : WEPADJUE | Date : 21/.4/2026" >> README.md 
+git add README.md 
+git commit -m "docs: ajout des informations d'auteur et de date" 
