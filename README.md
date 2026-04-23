@@ -14,5 +14,9 @@ echo "Auteur : WEPADJUE | Date : 21/.4/2026" >> README.md
 git add README.md 
 git commit -m "docs: ajout des informations d'auteur et de date" 
 
+
 # ajout de la page d'accueil et du style au projet pour un rendu visuel.
 # pour ce projet uniquement la page d'accueil est fonctionnelle
+
+# ajout de la page d'accueil et du style au projet pour un rendu visuel(html,css et les images)
+
