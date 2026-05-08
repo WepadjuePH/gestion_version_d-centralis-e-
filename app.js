@@ -1,1 +1,0 @@
-console.log("WPH v1.0.0 -En cours de developpement"); 
